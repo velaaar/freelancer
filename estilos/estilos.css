@@ -1,0 +1,9 @@
+.margenes{
+    margin: 0 5em 0 5em;
+    font-family: sans-serif;
+}
+
+.mayuscula{
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
